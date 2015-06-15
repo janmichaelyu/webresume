@@ -1,0 +1,82 @@
+[
+  {
+    "id": 1,
+    "company_name":"Osiatis",
+    "address":"1 Rue du Petit Clamart, Vélizy-Villacoublay",
+    "country":"France",
+    "logo":"img/Osiatis.png",
+    "company_description":"Osiatis is a European provider of business-to-business digital services.",
+    "job_name":"Web Developer",
+    "job_description":"Code migration from PHP4 to PHP5. Databases migration from Oracle 8i to Oracle 10g. Optimization. Helpdesk",
+    "contract":"Intership",
+    "techno":"PHP5 and Oracle10",
+    "date": {
+      "debut":"September 2010",
+      "fin":"December 2010"
+    }
+  },
+  {
+    "id": 2,
+    "company_name": "Simstream",
+    "address": "69 Rue de Rochechouart, Paris",
+    "country": "France",
+    "logo": "img/simstream.png",
+    "company_description":"Simstream has been delivering complex IT security and network solutions for multinational corporations.",
+    "job_name": "Junior IT Consultant",
+    "job_description":"Consultant for Fnac company. Intranet website, mobile website maintenance. Iphone application Development. CMS and Website development. Client relationship management. ",
+    "contract":"Internship",
+    "techno":"PHP5, HTML, CSS, Objective-C",
+    "date": {
+      "debut": "May 2012",
+      "fin": "December 2012"
+    }
+  },
+  {
+    "id": 3,
+    "company_name":"LevelUp EIP",
+    "address":"24 Rue Pasteur, Le Kremlin-Bicêtre",
+    "country":"France",
+    "logo":"levelup.png",
+    "company_description":"the Epitech Innovative Project (EIP) is a final year project which has to be of a professional quality. LevelUp is a mobile and web applications’ suite to help people to handle their daily life.",
+    "job_name":"Web Developer",
+    "job_description":"4 ruby-on-rail applications Development + website connected to an API",
+    "contract":"Freelance",
+    "techno":"Ruby On rails, HTML, CSS, Javascript",
+    "date": {
+      "debut":"April 2013",
+      "fin":"February 2015"
+    }
+  },
+  {
+    "id": 4,
+    "company_name": "Pixways",
+    "address": "19 Rue Béranger, Paris",
+    "country": "France",
+    "logo": "img/PixWays.jpg",
+    "company_description":"Pixways is the leading French photo and video portal. It provides content for press and media outlets.",
+    "job_name": "Web Developer",
+    "job_description":"develop the new user interface of the biggest project(pixpalace) from Jquery-UI to bootstrap. Code optimization with new ruby-on-rails 4.2",
+    "contract":"Part-time internship",
+    "techno":"Ruby-On-rails, HTML, CSS, Javascript",
+    "date": {
+      "debut": "October 2014",
+      "fin": "February 2015"
+    }
+  },
+  {
+    "id": 5,
+    "company_name": "Freelance",
+    "address": "11 rue des aubepines, Morigny-champigny",
+    "country": "France",
+    "logo": ".png",
+    "company_description":"I created my own company to be able to improve my skills on personal project and sold them.",
+    "job_name": "Web Developer",
+    "job_description":"Back-end and Front-end developer for Web and mobile application",
+    "contract":"company owner",
+    "techno":"Ruby On rails, AngularJS, HTML, CSS",
+    "date": {
+      "debut": "April 2015",
+      "fin": "today"
+    }
+  }
+]

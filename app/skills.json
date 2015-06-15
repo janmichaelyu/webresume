@@ -1,0 +1,147 @@
+  [
+    {
+      "dev":
+      [
+        {
+          "name":"Ruby",
+          "type":"language",
+          "for":"Web development"
+        },
+        {
+          "name":"PHP",
+          "type":"language",
+          "for":"Web development"
+        },
+        {
+          "name":"AngularJS",
+          "type":"language",
+          "for":"Web & Mobile development"
+        },
+        {
+          "name":"HTML",
+          "type":"language",
+          "for":"Web development"
+        },
+        {
+          "name":"CSS",
+          "type":"language",
+          "for":"Web development"
+        },
+        {
+          "name":"C",
+          "type":"language",
+          "for":"Software & System development"
+        },
+        {
+          "name":"C++",
+          "type":"language",
+          "for":"Software & System development"
+        },
+        {
+          "name":"Objective-C",
+          "type":"language",
+          "for":"Mobile development"
+        },
+
+        {
+          "name":"SQL",
+          "type":"language",
+          "for":"Database"
+        },
+        {
+          "name":"Oracle",
+          "type":"language",
+          "for":"Database"
+        },
+        {
+          "name":"Rails",
+          "type":"Framework",
+          "for":"Web development"
+        },
+        {
+          "name":"Zend",
+          "type":"Framework",
+          "for":"Web development"
+        },
+        {
+          "name":"Ionic",
+          "type":"Framework",
+          "for":"Mobile development"
+        }
+      ]
+    },
+    {
+      "language":
+      [
+        {
+          "language":"French",
+          "level":"Mother tongue"
+        },
+        {
+          "language":"English",
+          "level":"Fluent"
+        }
+      ]
+    },
+    {
+      "OS":
+      [
+        {
+          "OS":"Windows"
+        },
+        {
+          "OS":"OS X"
+        },
+        {
+          "OS":"BSD"
+        },
+        {
+          "OS":"Fedora"
+        },
+        {
+          "OS":"VMware"
+        }
+      ]
+    },
+    {
+      "tools":
+      [
+        {
+          "name":"Eclipe",
+          "kind":"IDE"
+        },
+        {
+          "name":"Emacs",
+          "kind":"IDE"
+        },
+        {
+          "name":"Webstorm",
+          "kind":"IDE"
+        },
+        {
+          "name":"RubyMine",
+          "kind":"IDE"
+        },
+        {
+          "name":"Aptana",
+          "kind":"IDE"
+        },
+        {
+          "name":"Xcode",
+          "kind":"IDE"
+        },
+        {
+          "name":"Sublime Text",
+          "kind":"IDE"
+        },
+        {
+          "name":"Svn",
+          "kind":"Versioning tools"
+        },
+        {
+          "name":"Git",
+          "kind":"Versioning tools"
+        }
+      ]
+    }
+  ]

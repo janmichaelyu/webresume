@@ -1,0 +1,7 @@
+<div class="col-md-12" ng-repeat="interest in interests.interests">
+    <div class="row">
+        <li class="col-md-4" ng-repeat="trip in interest.trip" style="color: #108576">{{trip.country}}</li>
+        <li class="col-md-4" ng-repeat="sport in interest.sport" style="color: #108576">{{sport.sport}}</li>
+        <li class="col-md-4" ng-repeat="hobby in interest.hobby" style="color: #108576">{{hobby.hobby}}</li>
+    </div>
+</div>

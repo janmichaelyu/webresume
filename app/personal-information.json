@@ -1,0 +1,13 @@
+{
+  "id": 1,
+  "name": "Camille",
+  "surname": "Benhamou",
+  "address": "56 boulevard de brandebourg, Ivry sur seine",
+  "country": "France",
+  "photo": "img/camille.JPG",
+  "description":"I am a French Software and Systems Engineer with experience in web and mobile development. I improve everyday my knowledge by working for myself as self owner of my small company.",
+  "job_seeking": "Front-end & Back-end Developer",
+  "phone":"06.48.04.22.16",
+  "email":"camille.benhamou@gmail.com",
+  "birthday":"25/09/1991"
+}

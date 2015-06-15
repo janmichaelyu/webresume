@@ -1,0 +1,67 @@
+[
+  {
+    "id": 1,
+    "school_name": "Lycée Geoffroy St Hilaire Paris",
+    "country": "France",
+    "logo": ".png",
+    "school_description":" Economy and Social Science High school",
+    "diploma": "baccalaureat",
+    "program_description":"",
+    "date": {
+      "debut": "September 2008",
+      "fin": "June 2009"
+    }
+  },
+  {
+    "id": 2,
+    "school_name": "Epitech Paris",
+    "country": "France",
+    "logo": "epitech.png",
+    "school_description":"",
+    "diploma": "bachelor degree",
+    "program_description":"",
+    "date": {
+      "debut": "October 2009",
+      "fin": "December 2012"
+    }
+  },
+  {
+    "id": 3,
+    "school_name": "ETS Global UK",
+    "country": "England",
+    "logo": "ETS.png",
+    "school_description":"English",
+    "diploma": "TOEIC",
+    "program_description":"",
+    "date": {
+      "debut": "Febuary 2013",
+      "fin": "May 2013"
+    }
+  },
+  {
+    "id": 4,
+  "school_name": "Beijing Jiaotong University ",
+  "country": "China",
+  "logo": "Jiaotong.png",
+  "school_description":"",
+  "diploma": "Master degree",
+  "program_description":"",
+  "date": {
+    "debut": "September 2013",
+    "fin": "June 2014"
+  }
+  },
+  {
+    "id": 5,
+    "school_name": "Epitech Paris",
+    "country": "France",
+    "logo": "Epitech.png",
+    "school_description":"",
+    "diploma": "Master degree",
+    "program_description":"",
+    "date": {
+      "debut": "September 2013",
+      "fin": "April 2015"
+    }
+  }
+]

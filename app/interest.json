@@ -1,0 +1,77 @@
+[
+  {
+    "trip":
+    [
+      {
+      "country":"Thailand",
+      "date":"2015"
+      },
+      {
+        "country":"Cambodia",
+        "date":"2015"
+      },
+      {
+        "country":"China",
+        "date":"2014"
+      },
+      {
+        "country":"England",
+        "date":"2013"
+      },
+      {
+        "country":"Czech Republic",
+        "date":"2012"
+      },
+      {
+        "country":"Hungary",
+        "date":"2010"
+      },
+      {
+        "country":"Portugal",
+        "date":"2009"
+      },
+      {
+        "country":"Spain",
+        "date":"2009"
+      }
+    ]
+  },
+  {
+    "sport":
+    [
+      {
+        "sport":"Sail",
+        "duration":"24 years"
+      },
+      {
+        "sport":"Snowboard",
+        "duration":"15 years"
+      },
+      {
+        "sport":"Judo",
+        "duration":"5 years"
+      },
+      {
+        "sport":"Tennis",
+        "duration":"7 years"
+      }
+    ]
+  },
+  {
+    "hobby":
+    [
+      {
+        "hobby":"Amateur DJ"
+      },
+      {
+        "hobby":"Music festival"
+      },
+      {
+        "hobby":"New technologies"
+      },
+      {
+        "hobby":"travel"
+      }
+    ]
+  }
+]

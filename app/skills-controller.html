@@ -1,0 +1,9 @@
+<div class="col-md-12" ng-repeat="skill in skills.skills">
+    <div class="row">
+        {{dev.name}}
+    <li class="col-md-3" ng-repeat="dev in skill.dev" style="color: #108576">{{dev.name}}</li>
+    <li class="col-md-3" ng-repeat="language in skill.language" style="color: #108576">{{language.language}}</li>
+    <li class="col-md-3" ng-repeat="OS in skill.OS" style="color: #108576">{{OS.OS}}</li>
+    <li class="col-md-3" ng-repeat="tools in skill.tools" style="color: #108576">{{tools.name}}</li>
+    </div>
+</div>

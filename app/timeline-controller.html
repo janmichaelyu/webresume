@@ -1,0 +1,53 @@
+<div class="container row col-lg-10 col-md-offset-1">
+    <header class="page-header">
+        <h1>Employement & School</h1>
+    </header>
+
+    <ul class="timeline">
+        <div ng-repeat="job in timeline.jobs">
+        <li><div class="tldate">{{job.date.debut}} </div></li>
+
+        <li>
+            <div class="tl-circ"></div>
+            <div class="timeline-panel">
+                <div class="tl-heading">
+                    <h4>{{job.company_name}}</h4><img ng-src="{{job.logo}}" alt="" class="img-thumbnail col-md-3">
+
+                    <p><small class="text-muted"></i> {{job.job_name}}</small></p>
+                </div>
+                <div class="tl-body">
+                    <p>{{job.job_description}}</p>
+                </div>
+            </div>
+        </li>
+            <li><div class="tldate">{{job.date.fin}} </div></li>
+
+        </div>
+
+
+
+
+        <div ng-repeat="school in timeline.schools">
+            <li><div class="tldate">{{school.date.debut}} </div></li>
+
+        <li class="timeline-inverted">
+            <div class="tl-circ"></div>
+            <div class="timeline-panel">
+                <div class="tl-heading">
+                    <h4>{{school.school_name}}</h4><img ng-src="{{job.logo}}" alt="" class="img-thumbnail col-md-3">
+                    <p><small class="text-muted">{{school.diploma}}</small></p>
+                </div>
+                <div class="tl-body">
+                    <p>{{school.school_description}}</p>
+
+                </div>
+            </div>
+        </li>
+            <li><div class="tldate">{{school.date.fin}} </div></li>
+
+        </div>
+
+
+
+    </ul>
+</div>
